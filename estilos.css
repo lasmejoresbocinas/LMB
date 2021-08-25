@@ -79,12 +79,13 @@ margin-right: 5px;
 }
 .titulo
 {	
-    font-size: 26px;
+    font-size: 25px;
 	color: rgb(255, 255, 255);
 	margin-top: 11px;
 	margin-left: 0px;
 	float: left;
     font-family: 'Open Sans', sans-serif;
+	
 }
 
 
@@ -189,7 +190,7 @@ header .logo p {
 .buton
 {
 	display: block;
-	background: #fff;
+	background: rgb(255, 255, 255);
 	padding: 20px;
 	text-align: center;
 	margin-top: 5px;
@@ -203,7 +204,7 @@ header .logo p {
 .overlay #btn-cerrar-popup {
 	background: none;
 	font-size: 20px;
-	color: #fff;
+	color: rgb(49, 232, 238);
 	border: none;
 	cursor: pointer;
 	position: absolute;
@@ -238,7 +239,7 @@ footer .redes-sociales a {
 footer .redes-sociales .whatsapp {background: #07b63c;}
 
 footer .redes-sociales a i {
-	font-size: 20px;
+	font-size: 35px;
 	line-height: 60px;
 
 }

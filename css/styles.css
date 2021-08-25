@@ -6,7 +6,7 @@
 }
 .fab 
 {
-	font-size: 18.5px;
+	font-size: 30px;
 }
 	.social ul {
 		list-style: none;
@@ -30,5 +30,5 @@
 	.social ul li a:hover {
 		background: rgb(11, 230, 47); /* Cambiamos el fondo cuando el usuario pase el mouse */
 		padding: 110px 40px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
-
+		font-size: 50;
 	}
